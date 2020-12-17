@@ -1,0 +1,18 @@
+{
+  "name": "safiye",
+  "version": "1.0.0",
+  "description": "Most applications made for the web have to do with some sort of data manipulation. In order to be able to manipulate our data we have to do two things first:",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "lowdb": "^1.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
