@@ -1,0 +1,25 @@
+{
+  "name": "01-Data-Server-Express",
+  "version": "1.0.0",
+  "description": "Most applications made for the web have to do with some sort of data manipulation. In order to be able to manipulate our data we have to do two things first:",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW32/01-Data-Server-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW32/01-Data-Server-Express/issues"
+  },
+  "homepage": "https://github.com/FBW32/01-Data-Server-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "nodemon": "^2.0.6"
+  }
+}
